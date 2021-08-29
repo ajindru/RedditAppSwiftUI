@@ -1,2 +1,2 @@
 # RedditAppSwiftUI
-T-Mobile test
+The app is built using SwiftUI and Combine.
